@@ -26,6 +26,8 @@ File Retention Equation: **min_age** + (**min_age** - **max_age**) * pow((**file
 - doxxing, database dumps containing personal information
 - anything illegal under German law
 
+**Blocked file types: application/x-dosexec, application/x-executable, application/x-hdf5, Android APKs and system images**
+
 Uploads found to be in violation of these rules will be removed,
 and the originating IP address may be blocked from further uploads.
 
