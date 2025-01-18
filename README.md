@@ -34,11 +34,11 @@ rule violations.
 ## Demo
 #### File
 
-[File](https://drive.google.com/file/d/10n3UgOkGTFmjkgQJ75G_zBngSVkg9mL6/view?usp=sharing)
+https://drive.google.com/file/d/10n3UgOkGTFmjkgQJ75G_zBngSVkg9mL6/view?usp=sharing
 
 #### Website
 
-[Website](https://drive.google.com/file/d/10n3UgOkGTFmjkgQJ75G_zBngSVkg9mL6/view?usp=sharing)
+https://drive.google.com/file/d/10n3UgOkGTFmjkgQJ75G_zBngSVkg9mL6/view?usp=sharing
 
 ## Documentation
 
