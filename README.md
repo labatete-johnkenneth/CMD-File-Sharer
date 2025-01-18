@@ -36,6 +36,7 @@ rule violations.
 
 https://github.com/user-attachments/assets/db6d012a-e3e3-4b8d-977e-43738f511ba8
 
+***\*Then right click "Save as"\****
 #### Website
 
 https://github.com/user-attachments/assets/9d84874d-5501-4cad-a9ff-d58bfab072c2
