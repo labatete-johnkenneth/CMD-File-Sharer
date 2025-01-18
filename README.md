@@ -13,7 +13,7 @@ File Retention Equation: **min_age** + (**min_age** - **max_age**) * pow((**file
 
 ***\*Below are Mia's ToS I have no control over this, she owns it.\****
 
-0x0.st is NOT a platform for:
+0x0.st (This script's backend) is NOT a platform for:
 - piracy
 - pornography and gore
 - extremist material of any kind
@@ -47,8 +47,6 @@ https://github.com/user-attachments/assets/9d84874d-5501-4cad-a9ff-d58bfab072c2
 
 
 ## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
